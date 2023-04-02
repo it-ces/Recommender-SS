@@ -1,4 +1,6 @@
-# Recommeder 
+# Web application to recommeder songs!
+
+![Alt Text](https://github.com/it-ces/Recommender-SS/blob/main/shortgift.gif)
 
 the followings is a try to document
 
