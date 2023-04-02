@@ -14,3 +14,6 @@ after in terminal you can put
 you can put in the browser the following url
 
     0.0.0.0:1234
+    
+    
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
