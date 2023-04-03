@@ -1,4 +1,4 @@
-# Web application to recommeder songs!
+# Recommendation system to spotify(Basic Web application)
 
 ![Alt Text](https://github.com/it-ces/Recommender-SS/blob/main/shortgift.gif)
 
